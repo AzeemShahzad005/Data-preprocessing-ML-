@@ -6,8 +6,9 @@
 
 --> Importing the Dataset
 
---> Missing data
+--> Taking care Missing data
 
--->
+--> Encodeing Categorical data 
 
--->
+
+
