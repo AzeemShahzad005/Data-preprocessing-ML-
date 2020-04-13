@@ -8,7 +8,7 @@
 
 --> Taking care Missing data
 
---> Encodeing Categorical data.
+--> Encodeing Categorical data
 
 -->
 
