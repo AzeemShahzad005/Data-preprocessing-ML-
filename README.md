@@ -6,7 +6,7 @@
 
 --> Importing the Dataset
 
---> Taking care Missing data.
+--> Taking care Missing data
 
 --> Encodeing Categorical data.
 
