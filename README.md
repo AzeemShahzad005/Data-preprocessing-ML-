@@ -4,7 +4,7 @@
 
 --> Importing the Librairies
 
---> Importing the Dataset.
+--> Importing the Dataset
 
 --> Taking care Missing data
 
