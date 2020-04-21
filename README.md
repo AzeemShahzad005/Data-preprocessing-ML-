@@ -15,7 +15,7 @@
 --> Feature Scaling
 
 
-
+llll
 
 
 
