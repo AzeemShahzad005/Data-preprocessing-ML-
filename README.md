@@ -14,3 +14,4 @@
 
 --> Feature Scaling
 115555
+55
