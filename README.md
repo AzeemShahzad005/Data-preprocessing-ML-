@@ -13,8 +13,3 @@
 --> Splitting the dataset into the Training set and Test set
 
 --> Feature Scaling
-55
-55
-5555
-55
-55
